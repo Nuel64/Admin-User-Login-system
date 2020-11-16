@@ -88,7 +88,7 @@
 	}
 
 	// LOGIN USER
-	function login(){
+	function login() {
 		global $db, $username, $errors;
 
 		// grap form values
