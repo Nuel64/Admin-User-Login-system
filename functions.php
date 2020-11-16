@@ -78,7 +78,7 @@
 	}
 
 	// return user array from their id
-	function getUserById($id){
+	function getUserById($id) {
 		global $db;
 		$query = "SELECT * FROM users WHERE id=" . $id;
 		$result = mysqli_query($db, $query);
