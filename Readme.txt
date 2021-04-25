@@ -12,5 +12,3 @@ use a client like phpmyadmin and manually create a user with user_type as admin.
 Use this user to login and be able to create other users.
 
 Enjoy FOSS!
-
-credits Codewithawa.com
